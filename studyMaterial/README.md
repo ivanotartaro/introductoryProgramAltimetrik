@@ -14,7 +14,3 @@ This is where all the study material generated through **Become a Front End Deve
   - [Git (branch, tags and commits, stash command and hooks)](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.3xi0ogsuzq18).
   - [Git branching strategies and flows](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.guz29fw8hlnt).
 
-
-
-
-####### This page belongs to **Ivano Tartaro**.

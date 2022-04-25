@@ -2,7 +2,9 @@
 
 ## About
 
-This is where all the study material will be linked.
+This is where all the study material generated through **Become a Front End Developer with Altimetrik** bootcamp will be ordered and linked to the handbook.
+
+# **Become a Front End Developer with Altimetrik.**
 
 ## Agile Methodologies and Scrum
   - [Agile](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.xrcolke4ykat).
@@ -10,5 +12,9 @@ This is where all the study material will be linked.
 
 ## Git.
   - [Git (branch, tags and commits, stash command and hooks)](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.3xi0ogsuzq18).
-  - [Git branching strategies and flows.](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.guz29fw8hlnt).
+  - [Git branching strategies and flows](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.guz29fw8hlnt).
 
+
+
+
+### This page belongs to **Ivano Tartaro**.

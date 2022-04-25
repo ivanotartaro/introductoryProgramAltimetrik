@@ -1,6 +1,6 @@
 # Study Material
 
-## About
+### About
 
 This is where all the study material generated through **Become a Front End Developer with Altimetrik** bootcamp will be ordered and linked to the handbook.
 

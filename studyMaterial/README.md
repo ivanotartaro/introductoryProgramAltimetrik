@@ -1,12 +1,14 @@
-# Study Material
+# **Become a Front End Developer with Altimetrik.**
 
 ### About
 
 This is where all the study material generated through **Become a Front End Developer with Altimetrik** bootcamp will be organized and linked to the handbook.
 
-Follow the bootcamp up on my [Trello](https://trello.com/b/EBBNLHkg/bfeda-ivano-tartaro) board. 
+Follow the bootcamp up on my [Trello](https://trello.com/b/EBBNLHkg/bfeda-ivano-tartaro) board.
 
-# **Become a Front End Developer with Altimetrik.**
+Link to the [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.urcwq4z7wc3h).
+
+# **Study material.**
 
 ## Agile Methodologies and Scrum [here](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.8iabwtw7w4ay).
   ### [Agile](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.xrcolke4ykat).

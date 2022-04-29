@@ -20,7 +20,7 @@ Check out my handbook [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_
   ### [Git rebase and squash | merge vs rebase](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.fm7hq3x621y7)
 
 ## HTML
-   ## [What is html? | meta-tags | Input types | Difference between HTML and XHTML(https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.kelx4ddvb67l)
+   ## [What is html? | meta-tags | Input types | Difference between HTML and XHTML](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.kelx4ddvb67l)
 
 ## JavaScript
   ### [Syntax and Basic Constructs](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ickl9y9gxyh5)

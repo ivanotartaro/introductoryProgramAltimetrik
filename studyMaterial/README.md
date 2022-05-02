@@ -25,3 +25,6 @@ Check out my handbook [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_
   ## [Accessibility](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.76lj4ce5et03)
 ## JavaScript
   ### [Syntax and Basic Constructs](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ickl9y9gxyh5)
+
+## Internet
+  ### [SEO | DOM](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ewrn9rd2rtj9)

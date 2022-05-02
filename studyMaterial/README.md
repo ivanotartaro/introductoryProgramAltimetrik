@@ -27,6 +27,7 @@ Check out my handbook [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_
   ### [CSS general knowledge | Specificity | Box Model](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.95cmxpi75b45)
 ## JavaScript
   ### [Syntax and Basic Constructs](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ickl9y9gxyh5)
-
+  ### [Hoisting | DOM | Scope | strict](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.s89q1gwa7s4u)
+  
 ## Internet
   ### [SEO | DOM](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ewrn9rd2rtj9)

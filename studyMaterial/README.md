@@ -20,9 +20,9 @@ Check out my handbook [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_
   ### [Git rebase and squash | merge vs rebase](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.fm7hq3x621y7)
 
 ## HTML
-   ## [What is html? | meta-tags | Input types | Difference between HTML and XHTML](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.kelx4ddvb67l)
-  ## [Semantics HTML](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.wnmquoqmewj7)
-  ## [Accessibility](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.76lj4ce5et03)
+   ### [What is html? | meta-tags | Input types | Difference between HTML and XHTML](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.kelx4ddvb67l)
+  ### [Semantics HTML](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.wnmquoqmewj7)
+  ### [Accessibility](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.76lj4ce5et03)
 ## CSS
   ### [CSS general knowledge | Specificity | Box Model](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.95cmxpi75b45)
 ## JavaScript

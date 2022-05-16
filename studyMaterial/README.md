@@ -6,7 +6,7 @@ This is where all the study material generated through **Become a Front End Deve
 
 Follow my bootcamp journey on [Trello](https://trello.com/b/EBBNLHkg/bfeda-ivano-tartaro) board.
 
-Check out my handbook [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.urcwq4z7wc3h).
+Check out my [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.urcwq4z7wc3h).
 
 # **Study material**
 
@@ -40,3 +40,4 @@ Check out my handbook [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_
   
 ## Internet
   ### [SEO | DOM](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ewrn9rd2rtj9)
+  ### [Cookies | Local Storage | Session Storage](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.aj5auh463xkm)

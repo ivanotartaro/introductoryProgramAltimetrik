@@ -41,3 +41,6 @@ Check out my [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWM
 ## Internet
   ### [SEO | DOM](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ewrn9rd2rtj9)
   ### [Cookies | Local Storage | Session Storage](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.aj5auh463xkm)
+  ### [HTTP, it's Methods | Response Codes | Session Management](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ntokya81egxx)
+  
+  

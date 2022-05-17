@@ -37,6 +37,7 @@ Check out my [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWM
   ### [Syntax and Basic Constructs](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ickl9y9gxyh5)
   ### [Hoisting | DOM | Scope | strict](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.s89q1gwa7s4u)
   ### [Fetch API | Ajax (XHR)](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.h46taflxesqw)
+  ### [Events | Event bubbling](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.kbs4hoh8lhep)
   
 ## Internet
   ### [SEO | DOM](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ewrn9rd2rtj9)

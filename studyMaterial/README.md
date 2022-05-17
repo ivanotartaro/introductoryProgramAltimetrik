@@ -43,6 +43,6 @@ Check out my [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWM
   ### [Cookies | Local Storage | Session Storage](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.aj5auh463xkm)
   ### [HTTP, it's Methods | Response Codes | Session Management](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ntokya81egxx)
   ### [HTTP 2.0 | 3.0](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.y886m9ei2bub)
-  ###
+  ### [HTTPS](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.5qfveus7yhuc)
   ###
   ###

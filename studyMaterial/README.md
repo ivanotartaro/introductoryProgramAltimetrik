@@ -46,3 +46,4 @@ Check out my [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWM
   ### [HTTPS](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.5qfveus7yhuc)
   ### [CORS | JSONP](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.6iistfoq1hjm)
   ### [JSON Web Token](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.utqykbx91zz2)
+  ### [SSO | OAuth 2.0](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.rj6x0qihuo54)

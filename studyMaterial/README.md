@@ -60,4 +60,4 @@ Check out my [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWM
  ## Security
   ### [OWASP and top 10 guidelines](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ifvx2vkk0yn1)
   ### [DoS attack](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.56hilva0oq6l)
-  
+  ### [Brute Force](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.wqpz7q87oyc8) 

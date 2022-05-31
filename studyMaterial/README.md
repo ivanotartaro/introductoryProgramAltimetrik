@@ -63,3 +63,4 @@ Check out my [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWM
   ### [Brute Force](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.wqpz7q87oyc8) 
   ### [XSS](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.r7p17xwz4hbz)
   ### [Validation](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.yjcahexvh51r)
+  ### [MFA](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.okkdbhwf19yi)

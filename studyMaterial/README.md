@@ -37,8 +37,8 @@ Check out my [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWM
 ## OOP
   ### [OOP Concept](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.46cwau15avn8)
   ### [SOLID Principles](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.yrq51rvjuasy)
-  ### [Class | Inheritance | Prototype | Prototype Inheritance]()
-  ### [Encapsulation | Polymorphism]()
+  ### [Class | Inheritance | Prototype | Prototype Inheritance](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.46cwau15avn8)
+  ### [Encapsulation | Polymorphism](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.46cwau15avn8)
   
 ## JavaScript
   ### [Syntax and Basic Constructs](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ickl9y9gxyh5)
@@ -56,6 +56,7 @@ Check out my [handbook](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWM
   ### [CORS | JSONP](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.6iistfoq1hjm)
   ### [JSON Web Token](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.utqykbx91zz2)
   ### [SSO | OAuth 2.0](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.rj6x0qihuo54)
+
  
  ## Security
   ### [OWASP and top 10 guidelines](https://docs.google.com/document/d/1cX7EB7_SSi_8QXasacWMSBLyzs0M_1udCuQatMJe6qk/edit#heading=h.ifvx2vkk0yn1)
